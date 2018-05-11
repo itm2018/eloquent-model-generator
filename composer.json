@@ -1,6 +1,6 @@
 {
-  "name": "asamaru7/eloquent-model-generator-for-lumen",
-  "description": "Eloquent Model Generator",
+  "name": "itm2018/eloquent-model-generator-for-lumen",
+  "description": "Eloquent Model Generator, forked from  asamaru7/eloquent-model-generator",
   "license": "MIT",
   "autoload": {
     "psr-4": {
