@@ -36,6 +36,14 @@ class GenerateModelCommand extends Command
     }
 
     /**
+     * Fix for Lumen 5.6
+     */
+    public function handle()
+    {
+        return $this->fire();
+    }
+
+    /**
      * Executes the command
      */
     public function fire()
